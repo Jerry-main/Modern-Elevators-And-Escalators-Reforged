@@ -26,4 +26,4 @@ MTR 现代电梯与扶梯 1.20.1移植版
 
 # 画廊
 
-![](C:\Users\boar1.LAPTOP-92CGBE8H\Pictures\MEAER.png)
+![](https://pic1.imgdb.cn/item/68b1393258cb8da5c85f17c8.png)
